@@ -1,0 +1,15 @@
+﻿A = 1, B = 2, C = 3, D = 4, E = 5, F = 6, G = 7, H = 8, I = 9, J = 10, K = 11, L = 12, M = 13, N = 14, O = 15, P = 16, Q = 17, R = 18, S = 19, T = 20, U = 21, V = 22, W = 23, X = 24, Y = 25, Z = 26
+
+
+In my cipher I assigned each letter in the alphabet to a number 1-26. The numbers represent each letter’s place in the alphabet. A is set to 1 and Z is set to 26. Each word is separated by a space and each letter within a word is separated by a dash.
+
+
+9 12-15-22-5 3-15-4-9-14-7!
+I LOVE CODING!
+
+
+
+
+1. The Marriott International breach happened in 2014 and was discovered in 2018 after Starwood hotel chain was acquired by Marriott in 2016. The reservation system had been compromised and hundreds of millions of customer records were taken including passport numbers and credit cards. An internal security tool caught a suspicious attempt to access the database the hotel chain then found out that in 2014 hackers had encrypted and removed information from the Starwoods database. The hackers were identified as hackers employed by the Chinese intelligence services. It is unclear the motivation behind the hackers but it is thought that it was just for intelligence gathering because none of the guests' records ended up on the dark web for profit.
+2. Starwood was notorious for having an insecure reservation system and when acquired Marriott laid off the starwood IT team and they weren’t able to quickly implement another system and that is how the breach went on for so long. The hackers used a phishing method called email spoofing to gain access to the reservation system. 
+3. Since the breach, Marriott has changed everything over to their own reservation system instead of using Starwoods easily hacked databases.
